@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "citadelcraft:block/combine_wall"
+    }
+  }
+}
